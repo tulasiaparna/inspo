@@ -1,0 +1,52 @@
+*{
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    text-decoration:wavy;
+    text-shadow: 5px 5px 10px grey;
+    font-size: 35px
+}
+p{
+    text-align: center;
+}
+
+.design{
+    position:relative;
+    width:40%;
+    top:15%;
+}
+img{
+    width: 28rem;
+    height: 29rem;
+    position: static;
+    float:left;
+    padding: 3px;
+    border : 1px black;
+    margin: 5px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+div.card {
+    width: 25.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: medium;
+    text-align: left;
+    margin: 10%;
+    padding-left: 5px;
+
+  }
+.info{
+    text-align: left;
+}
+nav{
+ width: 1000px;
+ height:75px;
+ padding: 0px 500px;
+ position: relative;
+ background-color:rgb(91, 91, 235);
+
+}
+
